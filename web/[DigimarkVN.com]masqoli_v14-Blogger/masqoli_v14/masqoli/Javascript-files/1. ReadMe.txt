@@ -1,0 +1,8 @@
+Masqoli 1.1.0
+Javascript not upload in googlecode.
+I just put full javascript code into the template but if you want to add javascript code in google
+just see my tutorial inside the folder "How to upload javascript code in Google code"
+
+Remember That: You can find 
+
+1. navigation_search.js, page_navigation.js full javascript code into the </body> section.
